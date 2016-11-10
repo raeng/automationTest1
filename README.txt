@@ -1,4 +1,5 @@
-How to run the tests:
+How to run the tests: happy
+
 
 1. Start the Selenium server:
 ./node_modules/.bin/webdriver-manager start
